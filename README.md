@@ -15,5 +15,4 @@ Tableau Dashboard:
 https://public.tableau.com/views/ConsumerSpendingbygeneration_16680131294090/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ![Dashboard 1 (1)](https://user-images.githubusercontent.com/114427519/200897423-d0eff5c9-47ac-484d-9654-1c7ef45801d1.png)
-
 ![Dashboard 1](https://user-images.githubusercontent.com/114427519/200896912-fe6a5df8-94aa-431e-b315-623e07714d3e.png)
